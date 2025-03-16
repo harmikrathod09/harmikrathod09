@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harmik Rathod</h1>
 <h3 align="center">Building Scalable Applications for Modern Web and Mobile Experiences.</h3>
 
-
+<br/>
 
 - 🔭 I’m currently working on **Solmate Hub**
 
