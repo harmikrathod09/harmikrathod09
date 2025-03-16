@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harmik Rathod</h1>
 <h3 align="center">Building Scalable Applications for Modern Web and Mobile Experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harmik09&label=Profile%20views&color=0e75b6&style=flat" alt="harmik09" /> </p>
+
 
 - 🔭 I’m currently working on **Solmate Hub**
 
