@@ -29,9 +29,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmik09&show_icons=true&locale=en&layout=compact" alt="harmik09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmik09&show_icons=true&locale=en&layout=compact" alt="harmikrathod09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmik09&show_icons=true&locale=en" alt="harmik09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmik09&show_icons=true&locale=en" alt="harmikrathod09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmik09&" alt="harmik09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmik09&" alt="harmikrathod09" /></p>
 
