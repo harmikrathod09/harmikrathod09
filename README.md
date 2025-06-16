@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Solmate Hub**
+- 🔭 I’m currently working on **Blood Donor App**
 
 - 🌱 I’m currently learning **Flutter, MERN**
 
