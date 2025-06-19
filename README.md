@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, MERN**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **News App**
 
 - 🤝 I’m looking for help with **Internship Web**
 
