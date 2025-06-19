@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Internship Web**
 
-- 💬 Ask me about **Android, IOT, AI and ML**
-
 - 📫 How to reach me **harmikrathod56@gmail.com**
 
 - ⚡ Fun fact **I'M THE CREEPER: CATCH ME IF YOU CAN.**
