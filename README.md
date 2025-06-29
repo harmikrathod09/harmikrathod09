@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blood Donor App**
 
-- 🌱 I’m currently learning **Flutter, MERN**
+- 🌱 I’m currently learning **Flutter, Python**
 
 - 👯 I’m looking to collaborate on **News App**
 
