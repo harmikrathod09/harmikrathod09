@@ -31,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmikrathod09&show_icons=true&theme=dark" alt="harmikrathod09" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=harmikrathod09&theme=dark" alt="GitHub Streak" /></a>
