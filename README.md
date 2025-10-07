@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter, Python**
 
-- 👯 I’m looking to collaborate on **News App**
+- 👯 I’m looking to collaborate on **Blood Donor App**
 
-- 🤝 I’m looking for help with **Internship Web**
+- 🤝 I’m looking for help with **Kinds App**
 
 - 📫 How to reach me **harmikrathod56@gmail.com**
 
