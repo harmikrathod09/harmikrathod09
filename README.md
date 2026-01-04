@@ -118,4 +118,4 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 ---
 
 ### 🔥 GitHub Streak
-<img src="https://git-hub-streak-stats.vercel.app?user=harmikrathod09&theme=dark" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=harmikrathod09&theme=dark)](https://git.io/streak-stats)
