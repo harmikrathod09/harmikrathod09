@@ -111,7 +111,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harmikrathod09&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?harmikrathod09=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
