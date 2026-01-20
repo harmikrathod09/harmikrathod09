@@ -101,12 +101,6 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 ### ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harmikrathod09&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmikrathod09&show_icons=true&theme=dark)
-
 
 ---
 
