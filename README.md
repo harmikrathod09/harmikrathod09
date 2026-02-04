@@ -15,7 +15,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 - 👯 Open to collaborate on **Web Development (Next.js / MERN) & Flutter projects**
 - 🤝 Looking for guidance in **system design, performance optimization & application architecture**
 - 📫 Reach me at **harmikrathod56@gmail.com**
-- 🌐 Check out my **Portfolio:** [harmikrathodportfolio.netlify.app](https://harmikrathodportfolio.netlify.app/)
+- 🌐 Check out my **Portfolio:** [https://harmik-portfolio.vercel.app/](https://harmik-portfolio.vercel.app/)
 - ⚡ Fun fact: **Hot Reload & Fast Refresh feel like magic ✨**
 
 ---
