@@ -62,24 +62,6 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 ---
 
-<h3 align="left">📌 Current Projects</h3>
-
-<strong>🔹 Resource Management System (Web – Next.js)</strong>
-<ul>
-  <li>Role-based access control (Admin, Faculty, Student, Maintenance, Manager)</li>
-  <li>Modern UI with server-side rendering</li>
-  <li>Secure REST API integration</li>
-</ul>
-
-<strong>🔹 Heart Disease Prediction</strong>
-<ul>
-  <li>Machine learning model for health risk prediction</li>
-  <li>Data preprocessing, model training & evaluation</li>
-  <li>Built using Python & Scikit-learn</li>
-</ul>
-
----
-
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/harmik-rathod-208250246" target="_blank">
@@ -91,7 +73,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
   <a href="https://instagram.com/iamharmikrathod" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <a href="https://harmikrathodportfolio.netlify.app/" target="_blank">
+  <a href="https://harmik-portfolio.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" alt="Portfolio"/>
   </a>
 </p>
