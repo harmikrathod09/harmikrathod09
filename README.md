@@ -1,6 +1,9 @@
-<h1 align="center">
-Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harmik Rathod
-</h1>
+<p align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Harmik+Rathod;Hello%2C+it's+HR" alt="Full-Stack Developer"/>
+</a>
+</p>
+
 
 <h3 align="center">
   Web Developer | Flutter Developer | Machine Learning & Deep Learning Practitioner
